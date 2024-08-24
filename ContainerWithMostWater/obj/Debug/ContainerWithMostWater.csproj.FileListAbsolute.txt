@@ -1,0 +1,7 @@
+C:\C#\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe.config
+C:\C#\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe
+C:\C#\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.pdb
+C:\C#\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csproj.AssemblyReference.cache
+C:\C#\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\C#\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.exe
+C:\C#\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.pdb
